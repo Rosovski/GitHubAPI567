@@ -4,6 +4,7 @@ from Homework04 import get_repo_info
 class TestGetRepo(unittest.TestCase):
     def test_normal_response(self):
         expected = ['User: Rosovski',
+                    'Repo: GitHubAPI567 Number of commits: 6',
                     'Repo: hello-world Number of commits: 5',
                     'Repo: SSW-555-GEDCOM Number of commits: 7',
                     'Repo: SSW-567 Number of commits: 2',

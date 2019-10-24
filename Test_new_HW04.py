@@ -1,9 +1,7 @@
 import unittest
 from unittest import mock
 import json
-import new_HW04
 import requests
-import json
 
 
 def fake_get(url):

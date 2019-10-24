@@ -4,4 +4,4 @@ python:
 install:
   - pip install requests
 script:
-  - python -m unittest Test_HW04
+  - python -m unittest Test_new_HW04.py

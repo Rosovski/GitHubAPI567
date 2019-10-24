@@ -1,0 +1,393 @@
+[
+  {
+    "sha": "828c592a672f7ddc25ac112559d5b6f5a25aa7bf",
+    "node_id": "MDY6Q29tbWl0MjA4MzI5MTA5OjgyOGM1OTJhNjcyZjdkZGMyNWFjMTEyNTU5ZDViNmY1YTI1YWE3YmY=",
+    "commit": {
+      "author": {
+        "name": "Rosovski",
+        "email": "44822333+rosovski@users.noreply.github.com",
+        "date": "2019-09-19T22:22:01Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-09-19T22:22:01Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "77efdef19ec4e12ffaf65599d7c3a1b877dc7f89",
+        "url": "https://api.github.com/repos/Rosovski/Triangle567/git/trees/77efdef19ec4e12ffaf65599d7c3a1b877dc7f89"
+      },
+      "url": "https://api.github.com/repos/Rosovski/Triangle567/git/commits/828c592a672f7ddc25ac112559d5b6f5a25aa7bf",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJdg/+JCRBK7hj4Ov3rIwAAdHIIACdPaDPV0Iq+BnhO8YIS1wzk\nISas5m4frbtk2myJBQarZolajCflxwOnBwQvS6gfokhjAklT5HcZA6122QynnCkr\nkYQuAJYGyz4opRe5kDht5LePRCvTrAOa+o1EQRs7r0p6WHGfsXoj8usD5VjeUTge\noDJ8fRAVzrs+NWe1rM/iUBh4kdqHNjOuPG5JHzUXU0cK+s+vIvSSNnvzlDJlJfhh\nCX1XBeYOELKwLRCx5v8OtrFOVUZvAxCqKqKQ3iPQrdXvLVqBL5vTJE8Nb151KO+I\n6g7UP5WdMDcd9We7QA27/+ziPRhOerxS1Ds3vYXA8L21qoLwvHN5Cx22P4qeYXg=\n=/WEB\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 77efdef19ec4e12ffaf65599d7c3a1b877dc7f89\nparent fd79d1fca344ed5fb07bb0421b9f00b90dfc30ea\nauthor Rosovski <44822333+Rosovski@users.noreply.github.com> 1568931721 -0400\ncommitter GitHub <noreply@github.com> 1568931721 -0400\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/Rosovski/Triangle567/commits/828c592a672f7ddc25ac112559d5b6f5a25aa7bf",
+    "html_url": "https://github.com/Rosovski/Triangle567/commit/828c592a672f7ddc25ac112559d5b6f5a25aa7bf",
+    "comments_url": "https://api.github.com/repos/Rosovski/Triangle567/commits/828c592a672f7ddc25ac112559d5b6f5a25aa7bf/comments",
+    "author": {
+      "login": "Rosovski",
+      "id": 44822333,
+      "node_id": "MDQ6VXNlcjQ0ODIyMzMz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44822333?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Rosovski",
+      "html_url": "https://github.com/Rosovski",
+      "followers_url": "https://api.github.com/users/Rosovski/followers",
+      "following_url": "https://api.github.com/users/Rosovski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Rosovski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Rosovski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Rosovski/subscriptions",
+      "organizations_url": "https://api.github.com/users/Rosovski/orgs",
+      "repos_url": "https://api.github.com/users/Rosovski/repos",
+      "events_url": "https://api.github.com/users/Rosovski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Rosovski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "fd79d1fca344ed5fb07bb0421b9f00b90dfc30ea",
+        "url": "https://api.github.com/repos/Rosovski/Triangle567/commits/fd79d1fca344ed5fb07bb0421b9f00b90dfc30ea",
+        "html_url": "https://github.com/Rosovski/Triangle567/commit/fd79d1fca344ed5fb07bb0421b9f00b90dfc30ea"
+      }
+    ]
+  },
+  {
+    "sha": "fd79d1fca344ed5fb07bb0421b9f00b90dfc30ea",
+    "node_id": "MDY6Q29tbWl0MjA4MzI5MTA5OmZkNzlkMWZjYTM0NGVkNWZiMDdiYjA0MjFiOWYwMGI5MGRmYzMwZWE=",
+    "commit": {
+      "author": {
+        "name": "Rosovski",
+        "email": "44822333+rosovski@users.noreply.github.com",
+        "date": "2019-09-16T06:12:15Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-09-16T06:12:15Z"
+      },
+      "message": "Create README.md",
+      "tree": {
+        "sha": "be642d42da599053dcce45e42e3447223eff5472",
+        "url": "https://api.github.com/repos/Rosovski/Triangle567/git/trees/be642d42da599053dcce45e42e3447223eff5472"
+      },
+      "url": "https://api.github.com/repos/Rosovski/Triangle567/git/commits/fd79d1fca344ed5fb07bb0421b9f00b90dfc30ea",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJdfye/CRBK7hj4Ov3rIwAAdHIIAF5vIYCeFn45NAeHM2/R9Uay\n/sezY+wAXZ0OdHtItIIhoppqbI43teL/Px/zVFR+N27sEVHADmKBthENOJlBiZaM\nmQVll9IKe7hMBiOV+W+S/v7Fr9GZvMNECVsyzxvBnYMdKx2g1oFNp6q+mLAMmcrZ\nWLg0XTNN8+5VkrbzW2dwtc4WWUPwJJiXVKSNMPaGauzl4J1DUZpvog09OBuxTs9/\nUCeNQ0ehXe7dw4jWyVqXX+FFwLhx7Z6OjLcYfhjqo839ty4B+v2SaR1WeXMvt73H\n2oIpnHgp8/rPzsfRrOqUbq1QvGY86nhabJUsTpOXnH29VfsvhlmIoBN2LUipXYQ=\n=JXq0\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree be642d42da599053dcce45e42e3447223eff5472\nparent 42b25d85541c4d8ece53209b9f48a24c15024ed7\nauthor Rosovski <44822333+Rosovski@users.noreply.github.com> 1568614335 -0400\ncommitter GitHub <noreply@github.com> 1568614335 -0400\n\nCreate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/Rosovski/Triangle567/commits/fd79d1fca344ed5fb07bb0421b9f00b90dfc30ea",
+    "html_url": "https://github.com/Rosovski/Triangle567/commit/fd79d1fca344ed5fb07bb0421b9f00b90dfc30ea",
+    "comments_url": "https://api.github.com/repos/Rosovski/Triangle567/commits/fd79d1fca344ed5fb07bb0421b9f00b90dfc30ea/comments",
+    "author": {
+      "login": "Rosovski",
+      "id": 44822333,
+      "node_id": "MDQ6VXNlcjQ0ODIyMzMz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44822333?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Rosovski",
+      "html_url": "https://github.com/Rosovski",
+      "followers_url": "https://api.github.com/users/Rosovski/followers",
+      "following_url": "https://api.github.com/users/Rosovski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Rosovski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Rosovski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Rosovski/subscriptions",
+      "organizations_url": "https://api.github.com/users/Rosovski/orgs",
+      "repos_url": "https://api.github.com/users/Rosovski/repos",
+      "events_url": "https://api.github.com/users/Rosovski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Rosovski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "42b25d85541c4d8ece53209b9f48a24c15024ed7",
+        "url": "https://api.github.com/repos/Rosovski/Triangle567/commits/42b25d85541c4d8ece53209b9f48a24c15024ed7",
+        "html_url": "https://github.com/Rosovski/Triangle567/commit/42b25d85541c4d8ece53209b9f48a24c15024ed7"
+      }
+    ]
+  },
+  {
+    "sha": "42b25d85541c4d8ece53209b9f48a24c15024ed7",
+    "node_id": "MDY6Q29tbWl0MjA4MzI5MTA5OjQyYjI1ZDg1NTQxYzRkOGVjZTUzMjA5YjlmNDhhMjRjMTUwMjRlZDc=",
+    "commit": {
+      "author": {
+        "name": "Zhonghua Bao",
+        "email": "zbao4@stevens.edu",
+        "date": "2019-09-16T00:28:06Z"
+      },
+      "committer": {
+        "name": "Zhonghua Bao",
+        "email": "zbao4@stevens.edu",
+        "date": "2019-09-16T00:28:06Z"
+      },
+      "message": "assignment after correction",
+      "tree": {
+        "sha": "276281bec2c51a28a03cdb073b114c7dab90ca01",
+        "url": "https://api.github.com/repos/Rosovski/Triangle567/git/trees/276281bec2c51a28a03cdb073b114c7dab90ca01"
+      },
+      "url": "https://api.github.com/repos/Rosovski/Triangle567/git/commits/42b25d85541c4d8ece53209b9f48a24c15024ed7",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Rosovski/Triangle567/commits/42b25d85541c4d8ece53209b9f48a24c15024ed7",
+    "html_url": "https://github.com/Rosovski/Triangle567/commit/42b25d85541c4d8ece53209b9f48a24c15024ed7",
+    "comments_url": "https://api.github.com/repos/Rosovski/Triangle567/commits/42b25d85541c4d8ece53209b9f48a24c15024ed7/comments",
+    "author": {
+      "login": "Rosovski",
+      "id": 44822333,
+      "node_id": "MDQ6VXNlcjQ0ODIyMzMz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44822333?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Rosovski",
+      "html_url": "https://github.com/Rosovski",
+      "followers_url": "https://api.github.com/users/Rosovski/followers",
+      "following_url": "https://api.github.com/users/Rosovski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Rosovski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Rosovski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Rosovski/subscriptions",
+      "organizations_url": "https://api.github.com/users/Rosovski/orgs",
+      "repos_url": "https://api.github.com/users/Rosovski/repos",
+      "events_url": "https://api.github.com/users/Rosovski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Rosovski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Rosovski",
+      "id": 44822333,
+      "node_id": "MDQ6VXNlcjQ0ODIyMzMz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44822333?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Rosovski",
+      "html_url": "https://github.com/Rosovski",
+      "followers_url": "https://api.github.com/users/Rosovski/followers",
+      "following_url": "https://api.github.com/users/Rosovski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Rosovski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Rosovski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Rosovski/subscriptions",
+      "organizations_url": "https://api.github.com/users/Rosovski/orgs",
+      "repos_url": "https://api.github.com/users/Rosovski/repos",
+      "events_url": "https://api.github.com/users/Rosovski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Rosovski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c2c831830491935fdf1176fd5a49e9d8747398e9",
+        "url": "https://api.github.com/repos/Rosovski/Triangle567/commits/c2c831830491935fdf1176fd5a49e9d8747398e9",
+        "html_url": "https://github.com/Rosovski/Triangle567/commit/c2c831830491935fdf1176fd5a49e9d8747398e9"
+      }
+    ]
+  },
+  {
+    "sha": "c2c831830491935fdf1176fd5a49e9d8747398e9",
+    "node_id": "MDY6Q29tbWl0MjA4MzI5MTA5OmMyYzgzMTgzMDQ5MTkzNWZkZjExNzZmZDVhNDllOWQ4NzQ3Mzk4ZTk=",
+    "commit": {
+      "author": {
+        "name": "Zhonghua Bao",
+        "email": "zbao4@stevens.edu",
+        "date": "2019-09-13T19:28:08Z"
+      },
+      "committer": {
+        "name": "Zhonghua Bao",
+        "email": "zbao4@stevens.edu",
+        "date": "2019-09-13T19:28:08Z"
+      },
+      "message": "adding yml file",
+      "tree": {
+        "sha": "efa84fa3bde768995284a89936a331b5b395396c",
+        "url": "https://api.github.com/repos/Rosovski/Triangle567/git/trees/efa84fa3bde768995284a89936a331b5b395396c"
+      },
+      "url": "https://api.github.com/repos/Rosovski/Triangle567/git/commits/c2c831830491935fdf1176fd5a49e9d8747398e9",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Rosovski/Triangle567/commits/c2c831830491935fdf1176fd5a49e9d8747398e9",
+    "html_url": "https://github.com/Rosovski/Triangle567/commit/c2c831830491935fdf1176fd5a49e9d8747398e9",
+    "comments_url": "https://api.github.com/repos/Rosovski/Triangle567/commits/c2c831830491935fdf1176fd5a49e9d8747398e9/comments",
+    "author": {
+      "login": "Rosovski",
+      "id": 44822333,
+      "node_id": "MDQ6VXNlcjQ0ODIyMzMz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44822333?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Rosovski",
+      "html_url": "https://github.com/Rosovski",
+      "followers_url": "https://api.github.com/users/Rosovski/followers",
+      "following_url": "https://api.github.com/users/Rosovski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Rosovski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Rosovski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Rosovski/subscriptions",
+      "organizations_url": "https://api.github.com/users/Rosovski/orgs",
+      "repos_url": "https://api.github.com/users/Rosovski/repos",
+      "events_url": "https://api.github.com/users/Rosovski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Rosovski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Rosovski",
+      "id": 44822333,
+      "node_id": "MDQ6VXNlcjQ0ODIyMzMz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44822333?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Rosovski",
+      "html_url": "https://github.com/Rosovski",
+      "followers_url": "https://api.github.com/users/Rosovski/followers",
+      "following_url": "https://api.github.com/users/Rosovski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Rosovski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Rosovski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Rosovski/subscriptions",
+      "organizations_url": "https://api.github.com/users/Rosovski/orgs",
+      "repos_url": "https://api.github.com/users/Rosovski/repos",
+      "events_url": "https://api.github.com/users/Rosovski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Rosovski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c10dbde8f13dbf7fd08ae7de70005458ad9d92b1",
+        "url": "https://api.github.com/repos/Rosovski/Triangle567/commits/c10dbde8f13dbf7fd08ae7de70005458ad9d92b1",
+        "html_url": "https://github.com/Rosovski/Triangle567/commit/c10dbde8f13dbf7fd08ae7de70005458ad9d92b1"
+      }
+    ]
+  },
+  {
+    "sha": "c10dbde8f13dbf7fd08ae7de70005458ad9d92b1",
+    "node_id": "MDY6Q29tbWl0MjA4MzI5MTA5OmMxMGRiZGU4ZjEzZGJmN2ZkMDhhZTdkZTcwMDA1NDU4YWQ5ZDkyYjE=",
+    "commit": {
+      "author": {
+        "name": "Zhonghua Bao",
+        "email": "zbao4@stevens.edu",
+        "date": "2019-09-13T19:19:37Z"
+      },
+      "committer": {
+        "name": "Zhonghua Bao",
+        "email": "zbao4@stevens.edu",
+        "date": "2019-09-13T19:19:37Z"
+      },
+      "message": "first commit with obvious error",
+      "tree": {
+        "sha": "ac59e9b8bf332d7087f1fcf980b8101ab81a3f43",
+        "url": "https://api.github.com/repos/Rosovski/Triangle567/git/trees/ac59e9b8bf332d7087f1fcf980b8101ab81a3f43"
+      },
+      "url": "https://api.github.com/repos/Rosovski/Triangle567/git/commits/c10dbde8f13dbf7fd08ae7de70005458ad9d92b1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Rosovski/Triangle567/commits/c10dbde8f13dbf7fd08ae7de70005458ad9d92b1",
+    "html_url": "https://github.com/Rosovski/Triangle567/commit/c10dbde8f13dbf7fd08ae7de70005458ad9d92b1",
+    "comments_url": "https://api.github.com/repos/Rosovski/Triangle567/commits/c10dbde8f13dbf7fd08ae7de70005458ad9d92b1/comments",
+    "author": {
+      "login": "Rosovski",
+      "id": 44822333,
+      "node_id": "MDQ6VXNlcjQ0ODIyMzMz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44822333?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Rosovski",
+      "html_url": "https://github.com/Rosovski",
+      "followers_url": "https://api.github.com/users/Rosovski/followers",
+      "following_url": "https://api.github.com/users/Rosovski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Rosovski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Rosovski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Rosovski/subscriptions",
+      "organizations_url": "https://api.github.com/users/Rosovski/orgs",
+      "repos_url": "https://api.github.com/users/Rosovski/repos",
+      "events_url": "https://api.github.com/users/Rosovski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Rosovski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Rosovski",
+      "id": 44822333,
+      "node_id": "MDQ6VXNlcjQ0ODIyMzMz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44822333?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Rosovski",
+      "html_url": "https://github.com/Rosovski",
+      "followers_url": "https://api.github.com/users/Rosovski/followers",
+      "following_url": "https://api.github.com/users/Rosovski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Rosovski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Rosovski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Rosovski/subscriptions",
+      "organizations_url": "https://api.github.com/users/Rosovski/orgs",
+      "repos_url": "https://api.github.com/users/Rosovski/repos",
+      "events_url": "https://api.github.com/users/Rosovski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Rosovski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]
